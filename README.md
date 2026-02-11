@@ -23,7 +23,7 @@
 
 ## 🚀 Who Am I?
 
-I’m an Android Engineer with 3.5+ years of experience building real-world mobile applications used in production environments.
+I’m an Android Engineer who enjoys turning complex requirements into clean, maintainable Android applications.
 
 <i>"Architecture is what remains when the code evolves."</i>
 
@@ -70,7 +70,7 @@ Reactive streams using `Coroutines`, `Flow`, and `RxJava`
 
 ### 🌐 Networking & Realtime  
 `Retrofit` `REST APIs`  
-`Firebase` `Socket.IO` `MQTT`
+`Firebase` `Socket.IO` `MQTT` `Pub-Nub`
 
 ### ⚡ Reactive Programming  
 `Coroutines` `Kotlin Flow` `RxJava`
@@ -97,6 +97,7 @@ Reactive streams using `Coroutines`, `Flow`, and `RxJava`
 - Advanced Jetpack Compose patterns  
 - Kotlin Multiplatform  
 - Mobile system design fundamentals  
+- CI/CD pipeline setup and automated tester distribution using Firebase App Distribution  
 
 ---
 
